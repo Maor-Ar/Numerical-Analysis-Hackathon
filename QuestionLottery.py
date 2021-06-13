@@ -1,7 +1,9 @@
 """
- * Authors: Maor Arnon (ID: 205974553) and Neriya Zudi (ID:207073545)
- * Emails: maorar1@ac.sce.ac.il    neriyazudi@Gmail.com
- * Department of Computer Engineering - Assignment 5 - Numeric Analytics
+ * Authors: Maor Arnon (ID: 205974553) and Neriya Zudi (ID:207073545) and
+ *          Matan Ohayon (ID: 311435614) and Matan Sofer (ID: 208491811)
+ * Emails: maorar1@ac.sce.ac.il |  neriyazudi@Gmail.com
+ *         matan15595m@gmail.com  |  sofermatan123@gmail.com
+ * Department of Computer Engineering - Assignment 2 - Numeric Analytics
 """
 
 from sympy import tan
