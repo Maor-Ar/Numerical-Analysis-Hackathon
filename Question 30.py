@@ -1,7 +1,8 @@
 """
-
- * Authors: Maor Arnon (ID: 205974553) and Neriya Zudi (ID:207073545)
- * Emails: maorar1@ac.sce.ac.il    neriyazudi@Gmail.com
+ * Authors: Maor Arnon (ID: 205974553) and Neriya Zudi (ID:207073545) and
+ *          Matan Ohayon (ID: 311435614) and Matan Sofer (ID: 208491811)
+ * Emails: maorar1@ac.sce.ac.il |  neriyazudi@Gmail.com
+ *         matan15595m@gmail.com  |  sofermatan123@gmail.com
  * Department of Computer Engineering - Assignment 2 - Numeric Analytics
 """
 
@@ -33,7 +34,7 @@ class bcolors:
     PINKBG = '\033[105m'
     CYANBG = '\033[106m'
 
-
+#Setting global computer time parameters
 local_dt = datetime.now()
 d=str(local_dt.day)
 h=str(local_dt.hour)
@@ -485,7 +486,6 @@ PrintVectorFinal(luSolution)
 print("\n----The Third method according to the Gauss Seidel Method (including finding dominant diagonal)----")
 epsilon = 0.00001
 #geuss
-
 if CheckDominantDiagonal(matrixA):
     print("There is a dominant diagonal.")
     seidelSolution = GaussSeidelMethod(matrixA,vectorb,epsilon,InitVector(len(vectorb)),1)
