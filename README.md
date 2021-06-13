@@ -6,12 +6,13 @@
 
  By: Maor Arnon | <img src="https://img.shields.io/badge/Maor-Programmer-green" alt="Version" > 
  
- &  Neria Zudi | <img src="https://img.shields.io/badge/Neria-Programmer-blue" alt="Version" >
+ & Neriya Zudi | <img src="https://img.shields.io/badge/Neria-Programmer-blue" alt="Version" >
  
  &  Matan Ohayon | <img src="https://img.shields.io/badge/Matan-Programmer-green" alt="Version" >
  
  &  Matan Sofer | <img src="https://img.shields.io/badge/Matan-Programmer-blue" alt="Version" >
  
+
 
 
      This code is part of a project for Numeric Analitics Course.
