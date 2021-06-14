@@ -31,8 +31,25 @@
    * **interpolation methods**
    * **and Python in general .**
   
-  The solotions are for the questions from the hackathon of SCE College Ashdod - Numerical analysis Course (14-6-2021)
-  <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Hackathon Assignment File</a>
+  The solotions are for the questions from the hackathon of SCE College Ashdod - Numerical analysis Course (14-6-2021) :
+  
+  **<a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Hackathon Assignment File</a>**
+  
+  The way we drawed questions from the list of questions was with Intarpolation of points and values made from our IDs combination as shown here:
+  
+   **<a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Question Lottery Draw File</a>**
+   
+   Questions Code & Solutions:
+   * Queestion 1 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+   * Queestion 4 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+   * Queestion 12 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+   * Queestion 14 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+   * Queestion 28 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+   * Queestion 30 -<a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+   * Queestion 32 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Solution</a>
+  
+  
+  
 
 Feel free to use this code for any porpuse <sup> (Please do not misuse for malicious intent) </sub>
 
