@@ -1,5 +1,11 @@
 import math
-
+"""
+ * Authors: Maor Arnon (ID: 205974553) and Neriya Zudi (ID:207073545) and
+ *          Matan Ohayon (ID: 311435614) and Matan Sofer (ID: 208491811)
+ * Emails: maorar1@ac.sce.ac.il |  neriyazudi@Gmail.com
+           matan15595m@gmail.com  |  sofermatan123@gmail.com
+ * Department of Computer Engineering - Assignment 2 - Numeric Analytics
+"""
 class bcolors:
     ENDC = '\033[0m'
     HEADER = '\033[95m'
@@ -68,11 +74,14 @@ def Neville_interpolation(Table,pointToFindVal):   ##calcuate Nevil algorithm by
     for j in range(1,length):
         for i in range(length-1,j-1,-1): ##running for each pair combination in the table and calculate new value at table
             nevPrevSol = Table[i][1]
-            Table[i][1]=((pointToFindVal-Table[i-j][0])*Table[i][1] - (pointToFindVal-Table[i][0])*Table[i-1][1] )/ (Table[i][0]-Table[i-j][0])
-            print(bcolors.OKBLUE+"P"+str(i-j)+str(i)+"="+bcolors.ENDC+"(x-"+str(Table[i-j][0])+")*"+str(nevPrevSol)+"- (x-"+str(Table[i][0])+")*"+str(Table[i-1][1])+")/("+str(Table[i][0])+"-"+str(Table[i-j][0])+") ="+ bcolors.OKGREEN +str(Table[i][1]),bcolors.ENDC)
+            EQ1=((pointToFindVal-Table[i-j][0])*Table[i][1] - (pointToFindVal-Table[i][0])*Table[i-1][1] )
+            EQ2=(Table[i][0]-Table[i-j][0])
+            Table[i][1] =EQ1/EQ2
+            print(bcolors.OKBLUE+"P"+str(i-j)+str(i)+"="+bcolors.ENDC+"(x-"+str(Table[i-j][0])+")*"+str(nevPrevSol)+"- (x-"+str(Table[i][0])+")*"+
+                  str(Table[i-1][1])+")/("+str(Table[i][0])+"-"+str(Table[i-j][0])+") ="+ bcolors.OKGREEN +str(Table[i][1]),bcolors.ENDC)
+
     result = Table[length-1][1]
     print("Final solution by Neville's interpolation " + str(round(result,6)) + bcolors.FAIL + '00000' + bcolors.OKGREEN + d + bcolors.OKBLUE + h + m + bcolors.ENDC + '\n')
-
 
 
 
@@ -80,9 +89,9 @@ def Neville_interpolation(Table,pointToFindVal):   ##calcuate Nevil algorithm by
 
 TableForProject = [[0.2,13.7241], [0.35,13.9776], [0.45 ,14.0625], [0.6,13.9776], [0.75,13.7241] , [0.85,13.3056] , [0.9 , 12.7281]]
 point =0.65
-
-
 Lagrange_interpolation(TableForProject,point)
 Neville_interpolation(TableForProject,point)
+
+
 
 
