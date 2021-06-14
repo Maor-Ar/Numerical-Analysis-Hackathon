@@ -18,6 +18,7 @@
      This code is part of a project for Numeric Analitics Course.
      the code is able to use numeric methods to solve matrices.
      
+     
    <hr>
    
    In this project we demonstrate our knowledge in:
@@ -29,6 +30,9 @@
    * **Itrational Methods**
    * **interpolation methods**
    * **and Python in general .**
+  
+  The solotions are for the questions from the hackathon of SCE College Ashdod - Numerical analysis Course (14-6-2021)
+  <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Hackathon Assignment File</a>
 
 Feel free to use this code for any porpuse <sup> (Please do not misuse for malicious intent) </sub>
 
