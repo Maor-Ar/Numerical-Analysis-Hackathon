@@ -37,7 +37,7 @@
   
   The way we drawed questions from the list of questions was with Intarpolation of points and values made from our IDs combination as shown here:
   
-   **<a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Final%20Semester%20Hackathon%20All%20of%20The%20Questions.pdf">Question Lottery Draw File</a>**
+   **<a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/File%201%20QuestionLottery.pdf">Question Lottery Draw File</a>**
    
    Questions Code & Solutions:
    * Queestion 1 - <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Q1QuestionLottery.py">Code</a> , <a href="https://github.com/Maor-Ar/Numerical-Analysis-Hackathon/blob/main/Numeric%20Analysis%20Answers%26Output%20File2.pdf">Solution</a>
